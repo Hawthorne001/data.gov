@@ -62,3 +62,7 @@ ansible/roles/vendor
 .vscode/settings.json
 
 output
+
+# Metrics
+!metrics/.env
+metrics/*/credentials.json
